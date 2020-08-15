@@ -1,3 +1,12 @@
+What all things were used in this project are :-
+React JS 🔥🔥🔥🔥🔥🔥
+Google User authentication(Firebase) 🔒🔒🔒🔒
+React Context API(Redux)
+Material UI(Icons)
+CSS Variables
+Flexbox
+Real-time database(Firebase)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
