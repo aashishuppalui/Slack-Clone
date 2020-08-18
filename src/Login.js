@@ -27,10 +27,10 @@ function Login() {
     <div className="login">
       <div className="login_container">
         <img
-          src="https://a.slack-edge.com/bv1-8/slack_logo-ebd02d1.svg"
+          src="https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg"
           alt=""
         />
-        <h2>Sign in to Roger UX Mastery Group</h2>
+        <h1>Sign in to Roger UX Mastery Group</h1>
         <p>rogeruxmastery.slack.com</p>
         <Button onClick={signIn}>Sign In with Google</Button>
       </div>

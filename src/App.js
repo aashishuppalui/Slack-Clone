@@ -13,7 +13,6 @@ function App() {
 
   return (
     <div className="app">
-      {/* <h1>Whooooooo!!! We're building Slack Clone 🚀🚀🚀🚀🚀🚀 </h1> */}
       <Router>
         {/* Header */}
         {!user ? (
